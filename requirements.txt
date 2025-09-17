@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+numpy
+easyocr
+opencv-python-headless
+requests
+beautifulsoup4
